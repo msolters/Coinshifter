@@ -1,0 +1,14 @@
+{
+  "coinbase": {
+    "api": {
+      "key": "",
+      "secret": "",
+      "version": "2017-10-02"
+    }
+  },
+  "shapeshift": {
+    "api": {
+      "public": "535c5256d8596c90210523ed9379d1cb32aaa8488c8823bd7b08dd2ab0b2c1201b91419ac3047be8a80b73314c2673c0b1fc63c0aae6e6c97b0ad99cac02ba59"
+    }
+  }
+}
