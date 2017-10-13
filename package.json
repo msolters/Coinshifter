@@ -1,0 +1,33 @@
+{
+  "name": "coinshifter",
+  "version": "1.0.0",
+  "description": "ShapeShift assets from a Coinbase Wallet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msolters/coinshifter.git"
+  },
+  "keywords": [
+    "cryptocurrency",
+    "shapeshift",
+    "coinbase",
+    "bitcoin",
+    "litecoin",
+    "ethereum"
+  ],
+  "author": "Mark Solters",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/msolters/coinshifter/issues"
+  },
+  "homepage": "https://github.com/msolters/coinshifter#readme",
+  "dependencies": {
+    "coinbase": "^2.0.6",
+    "shapeshift.io": "^1.3.1",
+    "underscore": "^1.8.3",
+    "vorpal": "^1.12.0"
+  }
+}
